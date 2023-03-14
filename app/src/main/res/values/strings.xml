@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LinearLayoutPractice</string>
+    <string name="name">Banan Hamdan</string>
+    <string name="hour">3 hr</string>
+    <string name="nationality">Palestinian</string>
+    <string name="career">Engineer</string>
+    <string name="palestine">Palestine</string>
+    <string name="reviews">(150 reviews )</string>
+    <string name="days">5 Days ago</string>
+    <string name="rates">4.5</string>
+</resources>
